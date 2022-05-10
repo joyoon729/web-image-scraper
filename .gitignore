@@ -1,0 +1,5 @@
+node_modules/
+storage/
+.vscode/
+.devcontainer/
+.DS_Store

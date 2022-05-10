@@ -1,0 +1,17 @@
+{
+  "name": "web-image-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "NODE_ENV=test node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "node-html-parser": "^5.2.0",
+    "puppeteer": "^13.5.1"
+  }
+}
